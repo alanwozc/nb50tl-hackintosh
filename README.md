@@ -22,6 +22,7 @@
 * i5 9400
 * DDR4 2666 8Gx2
 * 我的原厂BIOS安装i5 9400无法正常开机，BIOS识别正常。后面更新BIOS正常使用。BIOS已经上传，解压后使用管理员权限打开CMD进入ALL目录下，运行FlashMeWinX64.bat进行BIOS更新
+* 更新BIOS后第一次开机会很慢请耐心等待，进入BIOS的热键为F1，开屏LOGO变为Style Note.
 
 安装系统为Mac OS Ventura 13.2.1
 * WI-FI正常
